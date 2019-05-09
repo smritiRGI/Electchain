@@ -1,0 +1,34 @@
+{
+  "name": "electchain",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dev-server": "^0.1.0",
+    "express": "^4.16.4",
+    "lite-server": "^2.4.0",
+    "mocha": "^6.1.4",
+    "truffle": "^5.0.14",
+    "web3": "^1.0.0-beta.48"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.2.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smritiRGI/Electchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smritiRGI/Electchain/issues"
+  },
+  "homepage": "https://github.com/smritiRGI/Electchain#readme",
+  "description": ""
+}
